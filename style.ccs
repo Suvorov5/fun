@@ -1,0 +1,41 @@
+body {
+    font-family: sans-serif;
+}
+
+
+header {
+    background-color: rgb(87, 201, 230);
+}
+header img{
+    border-radius: 10px;
+ margin: 10px; 
+}
+
+nav{
+    border: 1px solid black;
+    
+}
+nav a{ 
+    margin: 40px;
+    border-radius: 5px solid rgb(116, 103, 103);
+    color :rgb(11, 148, 182); 
+}
+
+footer{
+    background-color:rgb(171, 215, 231) ;
+}
+footer p{
+    background-color: rgb(19, 168, 195);
+}
+a{
+    
+    color:rgb(39, 207, 151);
+}
+h1{
+    text-align: center;
+}
+
+.as{
+    background-color:rgb(196, 217, 236);
+
+}
